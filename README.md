@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SriSwaroop
 - 👀 I’m interested in s/w dev
-- 🌱 I’m currently learning cs50
+- 🌱 Eternal learner
 - 💞️ I’m looking to collaborate on web 3
 - 📫 How to reach me srinivas.erram13@gmail.com
 
